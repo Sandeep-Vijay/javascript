@@ -1,0 +1,3 @@
+JavaScript
+----------
+node is the compiler for pure JavaScript(JS)
